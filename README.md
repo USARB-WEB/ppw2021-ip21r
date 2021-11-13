@@ -1,5 +1,5 @@
 # Link to conference
-https://meet.google.com/wti-oscw-rgn
+https://meet.google.com/aii-brzi-xuv
 
 # Contact information:
 + E-mail: chilatsergiu@gmail.com
