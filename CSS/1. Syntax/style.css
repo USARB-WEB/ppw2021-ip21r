@@ -1,0 +1,14 @@
+body{
+    background-color: olive;
+    color: white;
+    font-size: 36px;
+}
+
+.element{
+    background-color: violet;
+    font-size: 23px;
+    margin: 50px;
+    padding: 50px;
+    font-style: italic;
+    color: greenyellow;
+}

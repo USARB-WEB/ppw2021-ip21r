@@ -6,6 +6,7 @@ https://meet.google.com/wti-oscw-rgn
 
 # Information resources
 + https://htmlbook.ru
++ CSS syntax https://www.w3schools.com/css/css_syntax.ASP
 + CSS display
 https://www.w3schools.com/cssref/pr_class_display.asp
 + CSS Grid https://css-tricks.com/snippets/css/complete-guide-grid/
